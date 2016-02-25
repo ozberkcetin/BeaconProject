@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TmobBeaconProject</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_camera">CameraActivity</string>
+    <string name="title_activity_place_beacon">PlaceBeaconActivity</string>
+    <string name="title_activity_measure_beacon_power">MeasureBeaconPowerActivity</string>
+    <string name="title_activity_find_beacon">FindBeacon</string>
+    <string name="action_edit">Edit</string>
+    <string name="title_activity_sign_in">SignIn</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="title_activity_login_control">LoginControl</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+
+</resources>
